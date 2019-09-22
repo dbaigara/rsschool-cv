@@ -17,10 +17,10 @@ I really love English and I want to use it at my daily work as much as possible 
 >Passed HTML5 and CSS3 courses in Codecademy. 
 >Work with Git and VSCode.
 ### Code example
-function sayBye() {
-    alert("Goodbye from Git!");
-}
-###Experience
+>function sayBye() {
+>    alert("Goodbye from Git!");
+>}
+### Experience
 > I dont't have yet much experience. RSSchool 2019 Q3 is my first experience in developing. But, I have experience in C++, in particular data visualization via ROOT.
 ### Education
 >In 2018 graduated master degree at Dubna State University.
