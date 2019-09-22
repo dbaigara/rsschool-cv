@@ -11,7 +11,7 @@
 |whatsapp| +77078556193|
 ***
 ### Summary
->The IT sphere is interested for me as the most speed-growing and, respectively, this sphere require and give the opportunity to improve professional level during all the time.
+>I am a Junior researcher in Joint Institute for Nuclear Research (Dubna). Nevertheless, the IT sphere is interested for me as the most speed-growing and, respectively, this sphere require and give the opportunity to improve professional level during all the time.
 I really love English and I want to use it at my daily work as much as possible and I am able to increase my english  level in short period of time.
 ### Skills
 >Passed HTML5 and CSS3 courses in Codecademy. 
